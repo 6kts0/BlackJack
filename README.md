@@ -20,6 +20,10 @@ python blackjack.py
 - Standard blackjack rules
 - Dealer Logic
 
+## Upcoming features
+
+- Chip balance
+
 ## License
 
 MIT
