@@ -1,6 +1,6 @@
 # Blackjack Game
 
-A simple implementation of the classic casino card game Blackjack (21).
+A simple implementation of classic Blackjack or 21.
 
 ## How to Play
 
@@ -8,17 +8,17 @@ A simple implementation of the classic casino card game Blackjack (21).
 - Face cards are worth 10, Aces are worth 1 or 11
 - Hit to draw cards, stand to hold your hand
 
-## Installation
+## Run program
 ```bash
-npm install
-npm start
+git clone https://github.com/6kts0/BlackJack.git
+cd BlackJack
+python blackjack.py
 ```
 
 ## Features
 
 - Standard blackjack rules
-- Dealer AI
-- Chip betting system
+- Dealer Logic
 
 ## License
 
